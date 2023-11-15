@@ -2,7 +2,7 @@ const config = {
     noFoundTest: '***asset***',
     initKey: 'web3.assets.',
     contrastLangIndex: 4,
-    defaultValueIndex: 100,
+    defaultValueIndex: 4,
     fromXlsxPath: '/Users/a605/Desktop/code/xlsx-language-demo/public/asset/Web3  资产中心、DApps.xlsx',
     translate: [
         {
