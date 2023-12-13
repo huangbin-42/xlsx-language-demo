@@ -1,9 +1,9 @@
 const config = {
-    noFoundTest: '***NewTrandingFair***',
+    noFoundTest: '-------------------',
     initKey: '',
     contrastLangIndex: 1,
-    defaultValueIndex: 3,
-    fromXlsxPath: '/Users/a605/Desktop/code/xlsx-language-demo/public/new-tranding-fair/trading fair 新版页面 项目方L7 DEX(LSD7).xlsx',
+    defaultValueIndex: 100,
+    fromXlsxPath: '/Users/a605/Desktop/Plug/xlsx-language-demo/public/new-tranding-fair/trading fair 新版页面 项目方Verasity (VRA).xlsx',
     translate: [
         {
             targetLang: 'zh',

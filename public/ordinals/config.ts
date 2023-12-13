@@ -3,7 +3,7 @@ const config = {
     initKey: 'web3.ordinals.',
     contrastLangIndex: 3,
     defaultValueIndex: 1999,
-    fromXlsxPath: '/Users/a605/Desktop/code/xlsx-language-demo/public/ordinals/ordinals翻译导入用文档.xlsx',
+    fromXlsxPath: '/Users/a605/Desktop/Plug/xlsx-language-demo/public/ordinals/ordinals翻译导入用文档.xlsx',
     translate: [
         {
             targetLang: 'zh',
