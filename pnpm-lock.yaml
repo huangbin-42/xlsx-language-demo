@@ -15,8 +15,8 @@ dependencies:
     specifier: ^18.2.0
     version: 18.2.0(react@18.2.0)
   xlsx-auto-json:
-    specifier: ^2.1.2
-    version: 2.1.2
+    specifier: ^2.2.10
+    version: 2.2.10
 
 devDependencies:
   '@types/node':
@@ -2701,8 +2701,8 @@ packages:
     resolution: {integrity: sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==}
     dev: true
 
-  /xlsx-auto-json@2.1.2:
-    resolution: {integrity: sha512-7qyIfdi5U7ZVVX2CZ9xuTEEFVPrA+m/f6ES5RJD9lrmdq7QNZsVOdDkjvbfxXV7pU8xMLRhVGrS+2rMhufoUpg==}
+  /xlsx-auto-json@2.2.10:
+    resolution: {integrity: sha512-SNrFIqnVoUr20cUTVx7aYLAGx+NiWcvoE/vC/XPvbjNGWy18oysrnBEubNXaiWCu2hq1bPHKnAQTXRPb94kZMQ==}
     hasBin: true
     dependencies:
       unconfig: 0.3.11
