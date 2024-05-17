@@ -6,6 +6,9 @@ import ordinalsConfig from './public/ordinals/config'
 import weekendConfig from './public/weekend/config'
 import priceDetailConfig from './public/price-detail/config'
 import priceDetailWebsiteConfig from './public/price-detail-website/config'
+import converterConfig from './public/converter/config'
+import howtobuyConfig from './public/howtobuy/config'
+import price_prediction from './public/price_prediction/config'
 
 
-export default priceDetailWebsiteConfig
+export default converterConfig
