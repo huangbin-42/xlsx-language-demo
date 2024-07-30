@@ -29,12 +29,12 @@ const config = {
         },
         {
             targetLang: 'fr',
-            targetIndex: 3,
+            targetIndex: 4,
             outPath: `/Users/a605/Desktop/Next/bdm-bigdata-monorepo-web/apps/converter/public/locales/fr/converter.json`,
         },
         {
             targetLang: 'ja',
-            targetIndex: 4,
+            targetIndex: 3,
             outPath: `/Users/a605/Desktop/Next/bdm-bigdata-monorepo-web/apps/converter/public/locales/ja/converter.json`,
         },
         {

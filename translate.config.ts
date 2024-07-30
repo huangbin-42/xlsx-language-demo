@@ -9,6 +9,8 @@ import priceDetailWebsiteConfig from './public/price-detail-website/config'
 import converterConfig from './public/converter/config'
 import howtobuyConfig from './public/howtobuy/config'
 import price_prediction from './public/price_prediction/config'
+import priceConfig from './public/price/config'
+import coin_details from './public/coin_details/config'
+import price_sg from './public/price_sg/config'
 
-
-export default converterConfig
+export default priceConfig
