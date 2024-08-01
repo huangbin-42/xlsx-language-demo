@@ -16,6 +16,7 @@ const config = {
             outPath: `/Users/a605/Desktop/Plug/smartling_website/translated/next_coin_details/next_coin_details_zh.json`,
         },
     ],
+    defaultFileIndex:[1], 
 }
 
 export default config

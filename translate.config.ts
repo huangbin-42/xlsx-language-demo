@@ -13,4 +13,4 @@ import priceConfig from './public/price/config'
 import coin_details from './public/coin_details/config'
 import price_sg from './public/price_sg/config'
 
-export default priceConfig
+export default coin_details

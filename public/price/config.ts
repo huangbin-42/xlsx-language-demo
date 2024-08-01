@@ -21,6 +21,7 @@ const config = {
             outPath: `/Users/a605/Desktop/Plug/smartling_website/translated/next_price/next_price_tr.json`,
         },
     ],
+    defaultFileIndex:[0], 
 }
 
 export default config

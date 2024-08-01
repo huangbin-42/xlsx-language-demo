@@ -96,6 +96,7 @@ const config = {
             outPath: `/Users/a605/Desktop/gate-next-monorepo/apps/price-detail/public/locales/ar/next_price_detail.json`,
         },
     ],
+    defaultFileIndex:[1], 
 }
 
 export default config
