@@ -15,6 +15,11 @@ const config = {
             targetIndex: 0,
             outPath: `/Users/a605/Desktop/Plug/smartling_website/translated/next_coin_details/next_coin_details_zh.json`,
         },
+        {
+            targetLang: 'tr',
+            targetIndex: 2,
+            outPath: '/Users/a605/Desktop/Plug/smartling_website/translated/next_coin_details/next_coin_details_tr.json'
+        },
     ],
     defaultFileIndex:[1], 
 }
