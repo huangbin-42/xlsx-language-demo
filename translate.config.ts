@@ -12,5 +12,8 @@ import price_prediction from './public/price_prediction/config'
 import priceConfig from './public/price/config'
 import coin_details from './public/coin_details/config'
 import price_sg from './public/price_sg/config'
+import price_tr from './public/price_tr/config'
+import price_details_v2 from './public/price_details_v2/config'
 
-export default coin_details
+
+export default price_details_v2
