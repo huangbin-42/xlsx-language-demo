@@ -1,6 +1,6 @@
 const config = {
     noFoundTest: '',
-    initKey: 'Next.TrPrice.',
+    initKey: 'PriceTr.',
     contrastLangIndex: 1,
     defaultValueIndex: 1,
     defaultFileIndex:[0], 

@@ -14,6 +14,8 @@ import coin_details from './public/coin_details/config'
 import price_sg from './public/price_sg/config'
 import price_tr from './public/price_tr/config'
 import price_details_v2 from './public/price_details_v2/config'
+import bahamas_config from './public/bahamas/config'
+import converter_v2 from './public/converter_v2/config'
 
 
-export default price_details_v2
+export default converter_v2
